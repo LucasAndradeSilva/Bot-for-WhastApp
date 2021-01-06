@@ -1,0 +1,16 @@
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.deps.json
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.pdb
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.csprojAssemblyReference.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.AssemblyInfo.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.pdb
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.deps.json
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\bin\Debug\netcoreapp2.0\ZapFarmaApi.Domain.pdb
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.csprojAssemblyReference.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.AssemblyInfo.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\ZapFarma\ZapFarmaApi\ZapFarmaApi.Models\obj\Debug\netcoreapp2.0\ZapFarmaApi.Domain.pdb
